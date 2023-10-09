@@ -32,13 +32,13 @@ CREATE TABLE Animais (
          
          
          UPDATE Animais
-SET nome = 'Goofy'
-WHERE nome = 'Animal3';
+SET nome = 'Pateta'
+WHERE nome = 'Goofy';
 
 
 UPDATE Animais
 SET peso = 10.0
-WHERE nome = 'Animal10';
+WHERE nome = 'Garfield';
 
 
 ALTER TABLE Animais
